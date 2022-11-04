@@ -1,5 +1,5 @@
 the calculator is made very simple. the new concepts learned are 
-1) Array.from() :- Creates an array from string. It resturns an array from any object with a length property and any iterable object
+1) Array.from() :- Creates an array from string. It returns an array from any object with a length property and any iterable object
 2) eval() :- The eval() method evaluates or execute an arument, If the argument is expression then it evaluates the epression or if the argument is
 javascript statement if evaluates the statement, 
 

@@ -1,0 +1,9 @@
+the calculator is made very simple. the new concepts learned are 
+1) Array.from() :- Creates an array from string. It resturns an array from any object with a length property and any iterable object
+2) eval() :- The eval() method evaluates or execute an arument, If the argument is expression then it evaluates the epression or if the argument is
+javascript statement if evaluates the statement, 
+
+WE SHOULD NEVER USE EVAL() because
+1) Evaluates JAVASCRIPT from string is an BIG security risk
+2) Malicious code can run inside the application without permission
+3) Third party can see the scope of your application which can lead to possible attacks
